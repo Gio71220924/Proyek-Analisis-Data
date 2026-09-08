@@ -1,0 +1,10 @@
+# TODO (wajib sebelum submit ulang): ganti baris di bawah dengan URL asli hasil deploy.
+# URL harus berakhiran domain resmi Streamlit Cloud: https://<nama-app>.streamlit.app
+#
+# Langkah deploy:
+# 1. Push folder project ini ke repository GitHub.
+# 2. Login ke https://share.streamlit.io dengan akun GitHub.
+# 3. Klik "New app", pilih repo ini, set Main file path ke: dashboard/dashboard.py
+# 4. Deploy, tunggu sampai selesai, lalu salin URL yang muncul (harus diakhiri .streamlit.app)
+#
+# https://your-app-name.streamlit.app
